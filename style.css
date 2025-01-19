@@ -1,0 +1,40 @@
+#headeru{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F6F2ED;
+    height: 10vh;
+    padding: 0 5%;
+    position: fixed;
+    width: 100%;
+
+}
+
+.logo{
+    height: 50px;
+}
+
+.nav{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.subpaginas{
+    text-decoration: none;
+    color:black
+}
+
+.img{
+    width: 280px;
+    height: 710px;
+}
+
+.main{
+
+    display: flex;
+    width: 30px;
+
+}
+
+
